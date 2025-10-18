@@ -2,6 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
 python-dotenv
 certifi
 pymongo[srv]==3.12
